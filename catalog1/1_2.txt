@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 fgf
 hj
 ghgh
+=======
+fgfdb
+ffdb
+cvcb
+>>>>>>> master
